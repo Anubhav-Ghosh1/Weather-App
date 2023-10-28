@@ -1,0 +1,13 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-color{
+    /* background: rgb(66,215,169);
+    background: linear-gradient(86deg, rgba(66,215,169,1) 18%, rgba(27,206,208,1) 37%, rgba(52,176,207,1) 63%, rgba(145,76,255,1) 100%); */
+    /* background: rgb(37,185,196);
+    background: -moz-linear-gradient(90deg, rgba(37,185,196,1) 0%, rgba(0,133,255,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(37,185,196,1) 0%, rgba(0,133,255,1) 100%);
+    background: linear-gradient(90deg, rgba(37,185,196,1) 0%, rgba(0,133,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#25b9c4",endColorstr="#0085ff",GradientType=1); */
+    background: linear-gradient(135deg, #00feba, #5b548a);
+}
